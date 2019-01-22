@@ -29,7 +29,7 @@ from django.db.models.fields.related import (
     ManyToOneRel, ManyToManyRel, OneToOneRel,
 )
 
-from easy.database.models.base import AdminModel, RPCAdminModel
+from easy.database.models.base import AdminModel
 
 
 __all__ = aggregates_all + fields_all + indexes_all
