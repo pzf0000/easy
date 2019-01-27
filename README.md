@@ -72,7 +72,7 @@ starting the Django server.
 Run this command on the console to start the service.  
 在命令行直接运行这个命令就可以启动服务。
 ```
-run nameko service
+nameko run service
 ```
 You can also add the following code to the end of the serivice.py 
 so that it can be executed directly.  
